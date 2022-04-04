@@ -1,0 +1,20 @@
+{
+  "name": "markdown-embedded-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alessandro-marcantoni/markdown-embedded-code.git"
+  },
+  "keywords": [],
+  "author": "Alessandro Marcantoni <alessandro.marcantoni.98@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alessandro-marcantoni/markdown-embedded-code/issues"
+  },
+  "homepage": "https://github.com/alessandro-marcantoni/markdown-embedded-code#readme"
+}
