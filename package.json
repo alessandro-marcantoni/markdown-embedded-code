@@ -18,7 +18,5 @@
   },
   "homepage": "https://github.com/alessandro-marcantoni/markdown-embedded-code#readme",
   "dependencies": {
-    "@actions/core": "^1.6.0",
-    "@actions/github": "^5.0.1"
   }
 }
