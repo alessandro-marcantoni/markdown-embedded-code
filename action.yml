@@ -1,0 +1,7 @@
+name: 'Markdown Embedded Code'
+description: 'Embeds your code snippets inside markdown files.'
+inputs:
+outputs:
+runs:
+  using: 'node16'
+  main: 'index.js'
